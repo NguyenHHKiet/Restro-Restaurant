@@ -2,9 +2,9 @@
 Using ReactJS
 
 React functions components <br/>
-React file & folder structure
-CSS Flex & Grid
-Effect Animations
-BEM CSS model
+React file & folder structure<br/>
+CSS Flex & Grid<br/>
+Effect Animations<br/>
+BEM CSS model<br/>
 
 DEMO : https://brilliant-caramel-062fbd.netlify.app/
